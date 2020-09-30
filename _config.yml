@@ -1,35 +1,70 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://glassofnumbers.com" # the base hostname & protocol for your site, e.g. http://example.com
+# ----------------------------------------------------------------------------
+# Customize Options: Must Change
+#
+# Title:
+title: Duo, A Simple Jekyll Theme
 
+# Where the page will be deployed.
+# If it's https://foo.com/bar, just write "https://foo.com"
+url: "https://chibicode.github.io"
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
+# If you're deployging to a subdirectory (https://foo.com/bar/)
+# Then write "/bar/". Otherwise, remove this line.
+baseurl: "/duo/"
 
-paginate: 5
-paginate_path: "/page/:num"
+# Twitter IDs
+twitter:
+  username: "chibicode"
+author:
+  twitter: "chibicode"
 
-
-# Pages Path
+# Set default og:image
+# From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
 defaults:
-  - scope:
-      path: '_pages'
+  -
+    scope:
+      path: ""
     values:
-      permalink: /:basename:output_ext
+      image: "static/images/og.jpg"
 
-include:
-  - _pages
+# ----------------------------------------------------------------------------
+# Customize Options: Optional
+#
+# See: https://material.io/guidelines/style/color.html
+# Use color-name-value, like pink-200 or deep-purple-100
+brand_color: "amber-400"
 
+# How article URLs are structured.
+# See: https://jekyllrb.com/docs/permalinks/
+permalink: posts/:title/
 
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+# "UA-NNNNNNNN-N"
+google_analytics: ""
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# Language. For example, if you write in Japanese, use "ja"
+lang: "en"
+
+# How many posts are visible on the home page without clicking "View More"
+num_posts_visible_initially: 5
+
+# Date format: See http://strftime.net/
+date_format: "%b %-d, %Y"
+# ----------------------------------------------------------------------------
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-readme-index

@@ -1,5 +1,5 @@
 _site
-.sass-cache
+node_modules
+hot
 .jekyll-metadata
-*.DS_Store
-Gemfile.lock
+yarn-error.log
