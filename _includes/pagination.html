@@ -1,21 +1,44 @@
-{% if paginator.total_pages > 1 %}
-<nav class="pagination" role="pagination">
-  <ul>
-    {% assign url = site.baseurl | append: "/" %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page > 1 %}
-        {% assign prev = 'page/' | append: paginator.previous_page %}
+<nav class="pagination">
+  <div class="container">
+    <div class="pagination__list">
+
+      {% if paginator.previous_page %}
+      
+      {% if paginator.previous_page == 1 %}
+        <a class="previous-link" href="/">Prev Posts</a>
+      {% else %}
+        <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Prev Posts</a>
       {% endif %}
-      <li><a class="prev" href="{{ url | append: prev }}" title="Articles new">&laquo; Prev</a></li>
-    {% else %}
-      <li><span class="prev disabled">&laquo; Prev</span></li>
-    {% endif %}
-    <li><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></li>
-    {% if paginator.next_page %}
-      <li><a class="next" href="{{ url | append: 'page/' | append: paginator.next_page }}" title="Articles old">Next &raquo;</a></li>
-    {% else %}
-      <li><span class="next disabled">Next &raquo;</span></li>
-    {% endif %}
-  </ul>
+      
+      {% else %}
+        <span class="disabled">Prev Posts</span>
+      {% endif %}
+
+      <div class="counter-box">
+        {% if paginator.page == 1 %}
+          <span class="active-link">1</span>
+        {% else %}
+          <a href="/">1</a>
+        {% endif %}
+
+
+        {% for count in (2..paginator.total_pages) %}
+
+        {% if count == paginator.page %}
+          <span class="active-link">{{ count }}</span>
+        {% else %}
+          <a class="count-number" href="/page/{{ count }}/">{{ count }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      {% if paginator.next_page %}
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next Posts</a>
+      {% else %}
+        <span class="disabled">Next Posts</span>
+      {% endif %}
+
+
+    </div>
+  </div>
 </nav>
-{% endif %}
