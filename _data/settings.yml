@@ -30,7 +30,7 @@ instagram: https://instagram.com/glassofnumbers # Add your Instagram handle
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: glassofnumbers # Add instagram username
 
 
