@@ -9,7 +9,7 @@ description: Math Videos List
 # Author Settings
 author:
   name: Wilson
-  image: GlassOfNumbersT.png
+  # image: GlassOfNumbersT.png
   say-hello: Hello, I’m <strong>Wilson</strong>!
   bio: Hello everyone! I make videos to help people learn math more easily! Please work together with me and make math education available to students and children by subscribing to <a href="https://www.youtube.com/glassofnumbers" target="_blank">my YouTube channel</a>. Thank you!
 
