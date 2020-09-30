@@ -3,7 +3,7 @@ title_left    : "Glass"
 title_right   : "ofNumbers" # default: ""
 description   : "Math Videos Indexing"
 keywords      : "math, calculus, linear algebra, differential equations, trigonometry, geometry"
-url           : https://www.glassofnumbers.com # site url
+url           : https://glassofnumbers.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
