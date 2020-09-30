@@ -1,6 +1,6 @@
 # Site settings
 title: Glass of Numbers
-tag_text: Math
+tag_text: Glass of Numbers
 description: Math Videos
 url: "http://127.0.0.1:4000"
 baseurl: ""
