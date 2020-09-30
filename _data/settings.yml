@@ -11,16 +11,16 @@ author:
   name: Wilson
   image: face_logo.jpg
   say-hello: Hello, I’m <strong>Wilson</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: Hello everyone! I make videos to help people learn math more easily! Please work together with me and make math education available to students and children by subscribing to <a href="https://www.youtube.com/glassofnumbers" target="_blank">my YouTube channel</a>. Thank you!
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/glassofnumbers # Add your Twitter handle
+# facebook: https://facebook.com/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/glassofnumbers # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
