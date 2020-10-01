@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
+Hello everyone! My name is Wilson 🧐. I make videos to help people learn math more easily 💯! Please work together with me and make math education available to students 🏫 and children 👪 by subscribing to my [YouTube channel](https://www.youtube.com/glassofnumbers). Thank you!
 
 <img src="images/hello.svg" alt="sample image">
 
