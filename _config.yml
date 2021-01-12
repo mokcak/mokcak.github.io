@@ -6,7 +6,7 @@ remote_theme: 	  fongandrew/hydeout
 # Setup
 title:            Glass of Numbers
 tagline:          'Math Videos'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'A Group of Number Aliens Traveled to Earth to Talk About Math.'
 url:              https://glassofnumbers.com
 baseurl:          # '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
