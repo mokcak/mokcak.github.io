@@ -2,11 +2,11 @@
 
 📢 This is a list of videos of integration by substitution, commonly called "u-substitution" or "u substitution". This is the technique that we use the "reverse the chain rule".
 
-1) $\displaystyle \int x^2\sqrt{x^3 + 5} \, dx$
+1) $$\displaystyle \int x^2\sqrt{x^3 + 5} \, dx$$
 
 📽️ [https://youtu.be/If0VxcJcAek](https://youtu.be/If0VxcJcAek)
 
-2) $\displaystyle \int \sin^{3}x\cos x \, dx$
+2) $$\displaystyle \int \sin^{3}x\cos x \, dx$$
 
 📽️ [https://youtu.be/n4FNIm2aU9c](https://youtu.be/n4FNIm2aU9c)
 
