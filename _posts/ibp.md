@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Integration by Parts
+excerpt_separator:  <!--more-->
+tags: integration by parts, ibp, integration
 ---
 
 # Integration by Parts
