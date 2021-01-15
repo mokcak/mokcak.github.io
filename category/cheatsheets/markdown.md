@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Markdown Cheat Sheet
+title: Markdown Cheat Shee
 ---
 
-Italics `_text_` or `*text*`
+|--------------- |-----------|
 
+| Emphasis |  Code  |
+
+| Italics        | `_text here_` or `*text here*` |
+
+| Bold          | `__text here__` or `**text here**` |
+
+|--------------- |-----------|
