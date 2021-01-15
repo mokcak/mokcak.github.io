@@ -14,3 +14,9 @@ title: Markdown Cheat Sheet
 | Link (interal)   | `[display link](put directory here)`                         |
 | Link (external)  | `[displaylink](https://www.glassofnumbers.com)`              |
 
+| Quote and Code | Syntax                    |
+| -------------- | ------------------------- |
+| Block Quote    | `> put text here`         |
+| Code (inline)  | use ` to surround codes   |
+| Code Block     | use ``` to surround codes |
+
