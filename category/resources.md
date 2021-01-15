@@ -7,6 +7,6 @@ title: Resources
 
 Below is a list of cheat sheets that I keep for reference.
 
-- [Markdown Cheat Sheet](https://glassofnumbers.com)
+- [Markdown Cheat Sheet](/cheatsheets/markdown.html)
 - [Mathematica Cheat Sheet](https://www.glassofnumbers.com)
 
