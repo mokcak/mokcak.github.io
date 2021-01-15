@@ -3,7 +3,7 @@ layout: category
 title: Resources
 ---
 
-### Cheat Sheets
+### 🗊 Cheat Sheets
 
 Below is a list of cheat sheets that I keep for reference.
 
