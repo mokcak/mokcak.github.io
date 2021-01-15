@@ -17,4 +17,6 @@ title: Markdown Cheat Sheet
 | **Codes**       |                                                       |
 | Code (inline)   | use ` to surround codes                               |
 | Code Block      | use ``` to surround codes                             |
-
+| **Lists**       |                                                       |
+| Unordered       | use - or + or *                                       |
+| Ordered         | use #.                                                |
