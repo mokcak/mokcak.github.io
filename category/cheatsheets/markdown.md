@@ -3,6 +3,8 @@ layout: page
 title: Markdown Cheat Sheet
 ---
 
+
+
 | Emphasis        | Syntax                                                |
 | --------------- | ----------------------------------------------------- |
 | Italics         | `_text here_` or `*text here*`                        |
