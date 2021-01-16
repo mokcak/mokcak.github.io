@@ -9,9 +9,11 @@ Hello everyone! My name is Wilson🎙️. I make videos to help people learn mat
 - Youtube: 📺 <a href="https://www.youtube.com/glassofnumbers" target="_blank">https://www.youtube.com/glassofnumbers</a>
 - Instagram 📷 <a href="https://www.instagram.com/glassofnumbers/" target="_blank">https://www.instagram.com/glassofnumbers/</a>
 
+\
 
+\
 
-#### Topics
+### Topics
 
 - Calculus
 - Basic Algebra
