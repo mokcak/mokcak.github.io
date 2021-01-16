@@ -15,7 +15,7 @@ Hello everyone! My name is Wilson🎙️. I make videos to help people learn mat
 
 ### Topics
 
-- [Calculus](subposts/calculus.html)
+- [Calculus](calculus.html)
 - Basic Algebra
 - Trigonometry 
 
