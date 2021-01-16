@@ -11,7 +11,13 @@ title: The Substitution Rule
 
 
 
-2) 
+2) $$\displaystyle \int \sin^{3}x\cos x \, dx$$
+
+📽️ <a href="https://youtu.be/n4FNIm2aU9c" target="_blank">https://youtu.be/n4FNIm2aU9c</a>
+
+
+
+3) 
 
 
 
