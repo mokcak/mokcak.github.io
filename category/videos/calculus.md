@@ -13,4 +13,3 @@ title: Calculus Videos
 
 - [Trigonometric Substitution](calculus/trig_sub.html)
 
-  
