@@ -3,7 +3,7 @@ layout: page
 title: Calculus Videos
 ---
 
-#### Integration Techniques
+#### 👉 Integration Techniques
 
 - [Substitution Rule](calculus/substitution_rule.html)
 - [Integration by Parts](calculus/integration_by_parts.html)
