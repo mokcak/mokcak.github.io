@@ -3,7 +3,7 @@ layout: page
 title: The Substitution Rule
 ---
 
-📢 This is a list of videos of integration by substitution, commonly called "u-substitution" or "u substitution". This is the technique that we use the "reverse the chain rule".
+📢 This is a list of videos of integration by substitution, commonly called "u-substitution". This is the technique that we use to "reverse the chain rule".
 
 | No.  | Problem                                                      | 📽️ Video Link                                                 |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |

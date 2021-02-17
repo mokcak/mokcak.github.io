@@ -9,7 +9,7 @@ title: Integration by Partial Fraction Decomposition
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 01   | $$\displaystyle \int \frac{5 - x}{(x - 2)(3 - x)} \, dx$$    | <a href="https://youtu.be/Sbj2ROSpIm0" target="_blank">https://youtu.be/Sbj2ROSpIm0</a> |
 | 02   | $$\displaystyle \int \frac{7 - 8x}{3x^2 + x - 2} \, dx$$     | <a href="https://youtu.be/3wvBueoLgbo" target="_blank">https://youtu.be/3wvBueoLgbo</a> |
-| 03   | $$\displaystyle \int \frac{x^3 + 4x^2 - 2x - 27}{(x - 1)(x + 2)(x + 3)} \, dx = \int \frac{x^3 + 4x^2 - 2x - 27}{x^3 + 4x^2 + x - 6} \, dx$$ | <a href="https://youtu.be/FGykYKPFG0s" target="_blank">https://youtu.be/FGykYKPFG0s</a> |
+| 03   | $$\displaystyle \int \frac{x^3 + 4x^2 - 2x - 27}{(x - 1)(x + 2)(x + 3)} \, dx$$ | <a href="https://youtu.be/FGykYKPFG0s" target="_blank">https://youtu.be/FGykYKPFG0s</a> |
 | 04   | $$\displaystyle \int \frac{9x^2 + 6x + 2}{(2x - 3)(x + 1)^2} \, dx$$ | <a href="https://youtu.be/ZDTvPHiq87w" target="_blank">https://youtu.be/ZDTvPHiq87w</a> |
 | 05   | $$\displaystyle \int \frac{4x^2 - 5x + 11}{(x - 1)(x^2 + 4)} \, dx$$ | <a href="https://youtu.be/aZVeBPFoLrQ" target="_blank">https://youtu.be/aZVeBPFoLrQ</a> |
 | 06   | $$\displaystyle \int \frac{5x^2 + 8x + 20}{x^3 + 2x^2 + 5x} \, dx$$ | <a href="https://youtu.be/x5Rh6OsIfB0" target="_blank">https://youtu.be/x5Rh6OsIfB0</a> |
