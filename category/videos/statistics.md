@@ -18,8 +18,3 @@ title: Elementary Statistics Videos
 | Basic Probability                              | <a href="https://youtu.be/japUuzNPe5w" target="_blank">https://youtu.be/japUuzNPe5w</a> |
 | Complementary Events and Odds                  | <a href="https://youtu.be/SghAuM-tYic" target="_blank">https://youtu.be/SghAuM-tYic</a> |
 | Probability: Addition Rule and Disjoint Events |                                                              |
-
-
-
-Probability: Addition Rule and Disjoint Events [this is the end of sentence.]{style="float:right"}
-
