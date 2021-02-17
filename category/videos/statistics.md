@@ -21,4 +21,4 @@ title: Elementary Statistics Videos
 
 
 
-Probability: Addition Rule and Disjoint Events <div style="text-align: right"><a href="https://youtu.be/dW2mlcHR4EY" target="_blank">https://youtu.be/dW2mlcHR4EY</a></div>
+Probability: Addition Rule and Disjoint Events <span style="text-align: right"><a href="https://youtu.be/dW2mlcHR4EY" target="_blank">https://youtu.be/dW2mlcHR4EY</a></span>
